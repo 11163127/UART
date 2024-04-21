@@ -1,0 +1,58 @@
+D:/learn_VHDL/UART/BaudClkGenerator_tb.vhd {2 {vcom -work work -2008 -explicit -stats=none D:/learn_VHDL/UART/BaudClkGenerator_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity BaudClkGenerator_tb
+-- Compiling architecture rtl of BaudClkGenerator_tb
+** Warning: D:/learn_VHDL/UART/BaudClkGenerator_tb.vhd(36): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/learn_VHDL/UART/BaudClkGenerator_tb.vhd(59): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} D:/learn_VHDL/UART/UART_tx.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/learn_VHDL/UART/UART_tx.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity UART_tx
+-- Compiling architecture rtl of UART_tx
+
+} {} {}} D:/learn_VHDL/UART/Serialiser.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/learn_VHDL/UART/Serialiser.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Serialiser
+-- Compiling architecture rtl of Serialiser
+
+} {} {}} D:/learn_VHDL/UART/UART_tx_tb.vhd {2 {vcom -work work -2002 -explicit -stats=none D:/learn_VHDL/UART/UART_tx_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity UART_tx_tb
+-- Compiling architecture rtl of UART_tx_tb
+** Warning: D:/learn_VHDL/UART/UART_tx_tb.vhd(43): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/learn_VHDL/UART/UART_tx_tb.vhd(69): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/learn_VHDL/UART/UART_tx_tb.vhd(71): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} D:/learn_VHDL/UART/Serialiser_tb.vhd {2 {vcom -work work -2002 -explicit -stats=none D:/learn_VHDL/UART/Serialiser_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Serialiser_tb
+-- Compiling architecture rtl of Serialiser_tb
+** Warning: D:/learn_VHDL/UART/Serialiser_tb.vhd(40): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/learn_VHDL/UART/Serialiser_tb.vhd(64): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/learn_VHDL/UART/Serialiser_tb.vhd(66): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/learn_VHDL/UART/Serialiser_tb.vhd(76): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} D:/learn_VHDL/UART/BaudClkGenerator.vhd {1 {vcom -work work -2008 -explicit -stats=none D:/learn_VHDL/UART/BaudClkGenerator.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity BaudClkGenerator
+-- Compiling architecture rtl of BaudClkGenerator
+
+} {} {}}
